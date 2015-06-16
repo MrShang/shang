@@ -1,0 +1,12 @@
+2015.06.12 17:31:18 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2015.06.12 17:31:19 org.jivesoftware.openfire.XMPPServer - Openfire 3.10.0 [Jun 12, 2015 5:31:19 PM]
+2015.06.12 17:31:20 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2015.06.12 17:31:20 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2015.06.12 17:31:20 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at http://shang-pc:9090
+2015.06.14 12:41:34 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2015.06.14 12:41:35 org.jivesoftware.openfire.XMPPServer - Openfire 3.10.0 [Jun 14, 2015 12:41:35 PM]
+2015.06.14 12:41:38 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2015.06.14 12:41:38 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2015.06.14 12:41:38 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at http://shang-pc:9090
+2015.06.14 12:41:57 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2015.06.14 12:41:57 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
